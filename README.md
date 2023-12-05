@@ -20,8 +20,7 @@ const guilherme = {
 - 📖 Engaging in continuous self-study to stay updated on the latest trends.
 - 🌐 Seeking opportunities to work!
 
-<h3 align="left">Languages and Tools:</h3>
-
+<h3 align="center">Languages and Tools:</h3>
 <div style="display: flex; gap: 10px; justify-content: space-around"><br>
     <img style="border-radius: 5px" style="" align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img style="border-radius: 5px" align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -40,8 +39,8 @@ const guilherme = {
     <img style="border-radius: 5px" align="center" alt="vscode" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
 
-<h3>DevOps:</h3>
-<div style="display: flex; gap: 10px">
+<h3 align="center">DevOps:</h3>
+<div align="center">
 <img style="border-radius: 5px" align="center" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img style="border-radius: 5px" align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img style="border-radius: 5px" align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
