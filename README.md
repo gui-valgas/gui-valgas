@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Guilherme+Valgas!;Welcome+to+my+github+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1EC75B&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Guilherme+Valgas!;Welcome+to+my+github+:%29)](https://git.io/typing-svg)&nbsp;
 
 <h4>I'm a fullstack web developer, currently directing my passion towards frontend development! <br>Seeking my first work opportunity in tech world! 🚀</h4>
 
@@ -59,5 +59,5 @@ const guilherme = {
 
 <div align="center"> 
   <h3>Reach me out</h3>  
-  <a href="mailto:guilhermehvalgas@gmail.com" title="Gmail" target="_blank"><img style="border-radius: 5px"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://www.linkedin.com/in/guilherme-valgas/" title="LinkedIn" target="_blank">  <img style="border-radius: 5px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a target="_blank" rel="noopener" href="mailto:guilhermehvalgas@gmail.com" title="Gmail"><img style="border-radius: 5px"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/guilherme-valgas/" title="LinkedIn">  <img style="border-radius: 5px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
