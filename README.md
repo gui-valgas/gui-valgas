@@ -59,5 +59,5 @@ const guilherme = {
 
 <div align="center"> 
   <h3>Reach me out</h3>  
-  <a target="_blank" rel="noopener" href="mailto:guilhermehvalgas@gmail.com" title="Gmail"><img style="border-radius: 5px"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/guilherme-valgas/" title="LinkedIn">  <img style="border-radius: 5px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a target="_blank" rel="noopener" href="mailto:guilhermehvalgas@gmail.com" title="Gmail"><img style="border-radius: 5px"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a rel="noopener" href="https://www.linkedin.com/in/guilherme-valgas/"  target="_blank" title="LinkedIn">  <img style="border-radius: 5px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
